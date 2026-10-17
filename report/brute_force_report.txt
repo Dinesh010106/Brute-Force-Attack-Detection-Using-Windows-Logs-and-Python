@@ -1,0 +1,8 @@
+BRUTE-FORCE DETECTION REPORT
+================================
+
+Rule: 5 failed logins in 5 minutes
+
+ALERT: 5 failed logins within 5 minutes | Username: student | Source IP: 192.168.1.50 | Time: 2026-10-17 10:02:00
+
+Repeated failures detected. Further investigation is required.
